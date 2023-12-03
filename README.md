@@ -4,7 +4,7 @@
 
 1. Supervised Learning:
    
-   a Regression Algorithms
+   a) Regression Algorithms
    
    [Linear regression Tutorial 1](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Linear%20Regression.pdf)<br />  
    
