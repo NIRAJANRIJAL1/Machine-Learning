@@ -6,6 +6,8 @@
    
    a) Regression Algorithms
    
-   [Linear regression Tutorial 1](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Linear%20Regression.pdf)<br />  
+   [Linear regression Tutorial 1](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Linear%20Regression.pdf)<br />
+
+   [Linear regression tutorial 2 - Finding linear regression manually & ML way](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Linear%20regression%20Tutorial%202.pdf)<br />
    
 
