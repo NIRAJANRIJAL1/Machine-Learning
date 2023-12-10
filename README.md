@@ -12,5 +12,7 @@
 
 [CHAPTER - 1 Tensor & Basic ML cycle](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Chapter%201%20-%20Tensor%20%26%20End%20to%20End%20Basic%20Project%20for%20ML%20overview.pdf)<br />
 
+[CHAPTER - 2 ML life cycle - Framing a Problem](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Chapter%202%20-%20ML%20Cycle%20-%20Framing%20a%20Problem.pdf)<br />
+
    
 
