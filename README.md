@@ -14,7 +14,7 @@
 
 [CHAPTER - 2 ML life cycle - Framing a Problem](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Chapter%202%20-%20ML%20Cycle%20-%20Framing%20a%20Problem.pdf)<br />
 
-[CHAPTER -3 PART A - GATHERING DATA, CSV](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20-%20Data%20Gathering%20(ML%20CYCLE%20-%202nd%20Step)%20-%20PART%20A.pdf)<br />
+[CHAPTER -3 Part A - Gathering data, CSV](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20-%20Data%20Gathering%20(ML%20CYCLE%20-%202nd%20Step)%20-%20PART%20A.pdf)<br />
 
    
 
