@@ -16,5 +16,6 @@
 
 [CHAPTER -3 Part A - Gathering data, CSV](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20-%20Data%20Gathering%20(ML%20CYCLE%20-%202nd%20Step)%20-%20PART%20A.pdf)<br />
 
+[CHAPTER -3 PART B - Gathering Data,JSON and SQL - connecting with mysql](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20-%20ML%20CYCLE%20-%20Second%20Step%20PART%20B%20Working%20with%20JSON%20and%20SQL%20(1).pdf)<br />
    
 
