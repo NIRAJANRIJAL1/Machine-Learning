@@ -20,6 +20,6 @@
 
 [CHAPTER - 3 PART C - Gathering data, API](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20(ML%20CYCLE)%20-%20GATHERING%20DATA%20-%20API%20-%20PART%20C.pdf)<br />
 
-[CHAPTER - 4 Autoscraping](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Web%20Scraping%20autoscraper.pdf)<br />
+[CHAPTER - 4 - Autoscraping, Part A ](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Web%20Scraping%20autoscraper.pdf)<br />
    
 
