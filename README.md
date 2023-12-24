@@ -21,5 +21,7 @@
 [CHAPTER - 3 PART C - Gathering data, API](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%203%20(ML%20CYCLE)%20-%20GATHERING%20DATA%20-%20API%20-%20PART%20C.pdf)<br />
 
 [CHAPTER - 4 - Autoscraping, Part A ](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Web%20Scraping%20autoscraper.pdf)<br />
+
+[CHAPTER - 5 - EDA, Univariate and multivariate analysis](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%204%20-%20EDA%20-%20UNI%2C%20BI%20and%20MULTIVARIATE%20Analysis%20.pdf)<br />
    
 
