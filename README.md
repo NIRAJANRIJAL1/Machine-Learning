@@ -23,5 +23,8 @@
 [CHAPTER - 4 - Autoscraping, Part A ](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Web%20Scraping%20autoscraper.pdf)<br />
 
 [CHAPTER - 5 - EDA, Univariate and multivariate analysis](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%204%20-%20EDA%20-%20UNI%2C%20BI%20and%20MULTIVARIATE%20Analysis%20.pdf)<br />
+
+[CHAPTER - 6 - Feature Scaling - Standardization and Normalization](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Feature%20Scaling%20-%20Standardization%20and%20Normalization.pdf)<br />
+
    
 
