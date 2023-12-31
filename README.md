@@ -28,5 +28,7 @@ MACHINE LEARNING LIFE CYCLE:
 
 [CHAPTER - 6 - Feature Scaling - Standardization and Normalization - ML cycle step 5](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/Feature%20Scaling%20-%20Standardization%20and%20Normalization.pdf)<br />
 
+[CHAPTER - 7 - Feature Engineering - Encoding categorical variable and Column Transfer](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%207%20-%20Feature%20Engineering%20-%20Encoding%20Categorical%20variable%2CNominal%20and%20column%20Transfer.pdf)<br />
+
    
 
