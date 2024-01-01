@@ -30,5 +30,7 @@ MACHINE LEARNING LIFE CYCLE:
 
 [CHAPTER - 7 - Feature Engineering - Encoding categorical variable and Column Transfer](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%207%20-%20Feature%20Engineering%20-%20Encoding%20Categorical%20variable%2CNominal%20and%20column%20Transfer.pdf)<br />
 
+[CHAPTER - 7 - Feature Engineering - Practice Column Transfer](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%207%20PRACTICE%20-%20Feature%20engineering%20Column%20transformer.pdf)<br />
+
    
 
