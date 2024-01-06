@@ -32,5 +32,7 @@ MACHINE LEARNING LIFE CYCLE:
 
 [CHAPTER - 7 - Feature Engineering - Practice Column Transfer](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%207%20PRACTICE%20-%20Feature%20engineering%20Column%20transformer.pdf)<br />
 
+[CHAPTER - 8 - Feature Transformation](https://github.com/NIRAJANRIJAL1/Machine-Learning/blob/main/CHAPTER%208%20-%20Feature%20Transformation.pdf)<br />
+
    
 
